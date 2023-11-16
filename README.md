@@ -1,5 +1,5 @@
 # 우아한테크코스 BE 6기 프리코스 레포지토리 
-## 1주차
+## 1주차
 - 숫자야구
 - https://github.com/snaag/java-baseball-6/tree/snaag
 
